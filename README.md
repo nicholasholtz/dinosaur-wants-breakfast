@@ -13,3 +13,5 @@ I want to create a game where I, as the main character, a dinosaur, am very hung
 - The doughnut is not easy to catch. 
     - It is slightly faster than me, always moving a little quicker than I can. 
     - Every once in a while, it will disappear and land at a new spot. 
+--
+March 13: Definitely decided to make this simpler. Falling doughnuts. Wanted to make sure I could wrap this up, learn from it, and ove forward without getting bogged down. In the past, this is the type of thing I've gotten tripped up on and ended up losing momentum. Here, I've finished the work and will be submitting it and moving to the next course. 
